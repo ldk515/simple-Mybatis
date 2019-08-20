@@ -1,2 +1,2 @@
-#MyBatis 示例
-这是一个用于学习MyBatis的最好的项目
+#MyBatis 绀轰緥
+杩欐槸涓�涓敤浜庡涔燤yBatis鐨勬渶濂界殑椤圭洰 xxx
